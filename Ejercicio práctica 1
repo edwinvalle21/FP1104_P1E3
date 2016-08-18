@@ -16,3 +16,8 @@ Su máquina analítica mecánica permitía calcular cualquier función algebraic
 Fue la primera programadora de la historia. A finales de los años setenta, el Departamento de Defensa desarrolló el primer lenguaje de software tal y como hoy lo conocemos, y para emularla, le dieron el crédito que se merecía, lo nombraron ADA.
 
 A los 29 años enfermó gravemente. Tras muchos años de sufrimiento Augusta Ada Byron falleció en Londres el 27 de noviembre de 1852. Byron mantuvo una intensa relación a distancia con su hija y bautizó con el nombre de Ada a muchas de las heroínas de su obra poética. Su cuerpo fue enterrado junto al de su padre al que nunca conoció.
+
+
+
+Algoritmo: Conjunto ordenado de operaciones sistemáticas que permite hacer un cálculo y hallar la solución de un tipo de problemas.
+La técnica de diseño de algoritmos llamada "divide y vencerás": consiste en descomponer el problema original en varios sub-problemas más sencillos, para luego resolver éstos mediante un cálculo sencillo. Por último, se combinan los resultados de cada sub-problema para obtener la solución del problema original.
